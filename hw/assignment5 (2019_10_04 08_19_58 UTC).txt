@@ -1,0 +1,131 @@
+Script started on Fri 04 Oct 2019 01:15:17 AM PDT
+[?1034hbash-4.2$ ./a.out
+
+You have 0 keys.
+You are in a dark room.
+Exits are West(1) and North(2).
+Which way do you go?  1
+You notice a trickle of water coming into the room.
+
+You have 0 keys.
+You are in a brick room.
+You find 2 key(s).
+There is a key in a locked box.
+To open it you must find the right answer to this problem:
+5 * 5 = 1
+5 * 5 = 25
+Correct! You opened the box and got a key!
+There is an exit to the East(1).
+which way do you go?  1
+The water is starting to form puddles.
+
+You have 1 key.
+You are in a dark room.
+Exits are West(1) and North(2).
+Which way do you go?  2
+The water is ankle-deep.
+
+You have 1 key.
+You are in a sandy room.
+There is an exit to the South(1), West(2), and North(3).
+which way do you go?  2
+The water is coming in faster now, it's up to your waist!
+
+You have 1 key.
+You are in an icy room.
+You find 1 key(s).
+There is a key in a locked box.
+To open it you must find the right answer to this problem:
+8 * 4 = 2 32
+Correct! You opened the box and got a key!
+There is an exit to the East(1) and North (2).
+which way do you go?  2
+The water is almost too deep to stand in.
+
+You have 2 keys.
+You enter an aquarium room with tropical fish tanks on the walls.
+You are challenged to a game of NIM by a dolphin.
+Win a key by making the dolphin take the last item!
+
+
+How many items would you like to start with? (10 to 30)
+
+30
+Player 1 enter your move (1-3): 3
+***************************
+The next player is up!
+
+27 objects remaining.
+Computer removed 2
+*************************
+The next player is up!
+
+25 objects remaining.
+Player 1 enter your move (1-3): 3
+**********************
+
+22 objects remaining.
+Computer removed 1
+*********************
+
+21 objects remaining.
+Player 1 enter your move (1-3): 3
+******************
+It's too close to call!
+
+18 objects remaining.
+Computer removed 2
+****************
+
+16 objects remaining.
+Player 1 enter your move (1-3): 3
+*************
+
+13 objects remaining.
+Computer removed 1
+************
+
+12 objects remaining.
+Player 1 enter your move (1-3): 2
+**********
+
+10 objects remaining.
+Computer removed 2
+********
+
+8 objects remaining.
+Player 1 enter your move (1-3): 3
+*****
+
+5 objects remaining.
+Computer removed 3
+**
+
+2 objects remaining.
+Player 1 enter your move (1-3): 1
+*
+
+1 object remaining.
+Computer removed 1
+
+
+0 objects remaining.
+Congratulations, you won a key!
+
+You found 1 key(s).
+There is an exit to the South(1) and East(2).
+which way do you go?  2
+You have to start swimming, and the water is almost up to the ceiling.
+
+You have 3 keys.
+You are in a bright room.
+There is an exit to the West(1), South(2), and East(3).
+To the East(3) there is a door with three locks.
+which way do you go?  3
+You take a deep breath and dive for a door.
+You have 3 keys.
+You found the exit!
+bash-4.2$ exit
+exit
+
+Script done on Fri 04 Oct 2019 01:16:03 AM PDT

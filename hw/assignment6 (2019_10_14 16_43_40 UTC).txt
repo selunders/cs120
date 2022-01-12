@@ -1,0 +1,224 @@
+Script started on Fri 11 Oct 2019 06:15:15 PM PDT
+[?1034hbash-4.2$ ./a.out
+What do you want to name your pet?
+Bob
+
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+3
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+3
+Bob is: 
+Getting hungry.
+Running around having fun.
+Squeaky clean.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Starving.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob loved the meal!
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob didn't seem to like the food.
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob loved the meal!
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob loved the meal!
+Bob is: 
+Very full.
+Biting at you!
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Getting hungry.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob loved the meal!
+Bob is: 
+Getting hungry.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob loved the meal!
+Bob is: 
+Very full.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Getting hungry.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+3
+Bob is: 
+Getting hungry.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+3
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+3
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Starving.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+2
+You fed Bob.
+Bob didn't seem to like the food.
+Bob is: 
+Getting hungry.
+Running around having fun.
+A bit dirty.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+Bob is: 
+Starving.
+Running around having fun.
+Needs a bath.
+What would you like to do with your pet?
+ Play (1) 
+ Feed (2) 
+ Bathe(3) 
+ Exit (0) 
+1
+You played with Bob.
+
+Your pet has starved.
+Press enter to exit.
+
+bash-4.2$ exit
+exit
+
+Script done on Fri 11 Oct 2019 06:15:52 PM PDT

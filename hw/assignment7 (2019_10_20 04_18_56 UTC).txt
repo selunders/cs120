@@ -1,0 +1,18 @@
+Script started on Fri 18 Oct 2019 06:00:26 PM PDT
+[?1034hbash-4.2$ ./a.out
+Fraction 1: 1/2
+1/2
+Fraction 2: 2/3
+2/3
+Fraction 3: 4/2
+4/2
+F1 + F2 = 7/6
+F1 + F2 Mixed: 1 1/6
+F1 + F2 Decimal: 1.16667
+F3 - F1 = -1/6
+F3 * F2 = 2/6
+F2 / F3 = 3/4
+bash-4.2$ exit
+exit
+
+Script done on Fri 18 Oct 2019 06:00:31 PM PDT
